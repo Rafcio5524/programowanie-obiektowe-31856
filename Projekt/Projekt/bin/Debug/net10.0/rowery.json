@@ -1,0 +1,45 @@
+[
+  {
+    "Id": 1,
+    "Kolor": "czerwony",
+    "Wypozyczony": false,
+    "TypRoweru": "Zwyk\u0142y",
+    "Czesci": [
+      {
+        "Nazwa": "Uchwyt na bidon",
+        "Cena": 25
+      },
+      {
+        "Nazwa": "Uchwyt na telefon",
+        "Cena": 40
+      },
+      {
+        "Nazwa": "Koszyk",
+        "Cena": 35
+      },
+      {
+        "Nazwa": "Lampki LED",
+        "Cena": 45
+      },
+      {
+        "Nazwa": "Licznik",
+        "Cena": 60
+      },
+      {
+        "Nazwa": "Baga\u017Cnik",
+        "Cena": 80
+      }
+    ],
+    "CenaCzesci": 285,
+    "CenaZaDzien": 20
+  },
+  {
+    "Id": 2,
+    "Kolor": "rzu\u0142ty",
+    "Wypozyczony": false,
+    "TypRoweru": "G\u00F3rski",
+    "Czesci": [],
+    "CenaCzesci": 0,
+    "CenaZaDzien": 30
+  }
+]
